@@ -1,6 +1,32 @@
-### Hi there 👋
+# About me
+My name is Mo'men Hamaveisi.
+I'm an android developer from Kurdistan.
 
-- 🔭 I’m currently working on chat in Kubak Compony
-- 🌱 I’m currently learning on TDD, coroutine and jetcompose for android kotlin
-- 💬 Ask me about Algorithm, Android, Clean Aarchitecture, Mvvm, Rx Java, git
-- 📫 How to reach me: gmail: momenhamaveisi7@gmail.com & linkedin: https://www.linkedin.com/in/momenhamaveisi/
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momen7899&show_icons=true&theme=gruvbox)
+
+
+# Work
+  I'm currently working in [Kubak](https://kubak.co/) as Android Developer
+  
+# Programming language
+ - Java
+ - Kotlin
+ - C
+ - C++
+ - Python
+
+  
+# Skills
+ - Algorithm
+ - Data Structure
+ - Clean Code
+ - Design Pattern
+ - Rx
+ - Coroutine
+ - Clean Architecture
+ - MVVM
+ - Unit Test
+
+# Contact Me
+ - [Gmail](momenhamaveisi7@gmail.com)
+ - [Linkedin](https://www.linkedin.com/in/momenhamaveisi/)
