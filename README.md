@@ -5,6 +5,6 @@ My name is Mo'men Hamaveisi.
 I'm an android developer from Kurdistan.
 I'm currently working in [Kubak](https://kubak.co/) as Android Developer.
 
-You can connect me on:
+You can find me on:
  - [Gmail](momenhamaveisi7@gmail.com)
  - [Linkedin](https://www.linkedin.com/in/momenhamaveisi/)
