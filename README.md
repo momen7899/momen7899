@@ -3,9 +3,9 @@
 ### Hi There 
 My name is Mo'men Hamaveisi.
 
-I'm an android developer from Kurdistan.
+I'm a Software Engineer from Kurdistan.
 
-I'm currently working in [Kubak](https://kubak.co/) as Android Developer.
+I'm currently working in [Yektanet](https://www.yektanet.com/) as a Software Engineer.
 
 You can connect me on:
  - [Gmail](momenhamaveisi7@gmail.com)
