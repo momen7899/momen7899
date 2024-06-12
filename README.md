@@ -5,7 +5,7 @@ My name is Mo'men Hamaveisi.
 
 I'm a Software Engineer from Kurdistan.
 
-I'm currently working in [Yektanet](https://www.yektanet.com/) as a Software Engineer.
+I'm currently working in [Digikala](https://www.digikala.com/) as a Software Engineer.
 
 You can connect me on:
  - [Gmail](momenhamaveisi7@gmail.com)
